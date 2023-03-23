@@ -1,0 +1,19 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Tyland Sheard",
+      "company": "RED Technologies",
+      "order": "Jordan 11",
+      "phone": "1112223333",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Zach Hall",
+      "company": "Spot Inc",
+      "order": "Lays Chips",
+      "phone": "2221114444"
+    }
+  ]
+}
