@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/order-tracking-app-react.git/static/css/main.60d345ed.css",
-    "main.js": "/order-tracking-app-react.git/static/js/main.8f61555c.js",
+    "main.js": "/order-tracking-app-react.git/static/js/main.07a1c432.js",
     "static/js/787.921dfa3f.chunk.js": "/order-tracking-app-react.git/static/js/787.921dfa3f.chunk.js",
     "static/media/logo.svg": "/order-tracking-app-react.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/order-tracking-app-react.git/index.html",
     "main.60d345ed.css.map": "/order-tracking-app-react.git/static/css/main.60d345ed.css.map",
-    "main.8f61555c.js.map": "/order-tracking-app-react.git/static/js/main.8f61555c.js.map",
+    "main.07a1c432.js.map": "/order-tracking-app-react.git/static/js/main.07a1c432.js.map",
     "787.921dfa3f.chunk.js.map": "/order-tracking-app-react.git/static/js/787.921dfa3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60d345ed.css",
-    "static/js/main.8f61555c.js"
+    "static/js/main.07a1c432.js"
   ]
 }
