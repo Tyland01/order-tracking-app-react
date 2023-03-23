@@ -18,7 +18,7 @@ function App() {
           <Route path='/employee/detail/:empid' element={<EmpDetail />}></Route>
           <Route path='/employee/edit/:empid' element={<EmpEdit />}></Route>
         </Routes>
-      </HashRouterr>
+      </HashRouter>
     </div>
   );
 }
